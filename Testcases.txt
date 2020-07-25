@@ -1,0 +1,27 @@
+Name: Shulini Padhy
+Email: spadh052@uottawa.ca
+Student Number: 300067447
+
+***************** TEST CASES FOR ICECREAM SHOP *****************
+
+***************** Test 1 *****************
+
+Order a large strawberry icecream with a sugar cone and strawberries along with strawberry sauce. 
+
+***************** Test 2 *****************
+
+Order a mint and chocolate icecream with a medium waffle cone, peanuts and strawberries with caramel sauce.
+
+***************** Test 3 *****************
+
+Order a vanilla and cookie dough icecream in a large bowl with sprinkles, bananas and chocolate sauce.
+
+***************** Test 4 *****************
+
+Order a chocolate icecream in a small wafer cone, with all toppings and caramel sauce. 
+
+***************** Test 5 *****************
+
+Order a strawberry, cookie dough, and vanilla icecream in a medium chocolae covered cone, chocolate chips and strawberry sauce.
+
+
